@@ -23,7 +23,7 @@ version = "1"
 version = "0.2"
 
 [dependencies.indexmap]
-version = "1.8"
+version = "2.1"
 
 [dependencies.jsonwebtoken]
 version = "8.1.1"
