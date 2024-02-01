@@ -26,7 +26,7 @@ version = "1"
 version = "1.0"
 
 [dependencies.indexmap]
-version = "1.9"
+version = "2.2"
 
 [dependencies.once_cell]
 version = "1.15"
