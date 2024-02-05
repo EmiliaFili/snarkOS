@@ -8,7 +8,7 @@
     <a href="https://www.aleo.org/discord"><img src="https://img.shields.io/discord/700454073459015690?logo=discord"/></a>
 </p>
 
-## <a name='TableofContents'></a>Table of Contents
+## <a name='TableofContents'></a>Table of Contents.
 
 * [1. Overview](#1-overview)
 * [2. Build Guide](#2-build-guide)
